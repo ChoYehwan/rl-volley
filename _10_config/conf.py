@@ -34,7 +34,7 @@ class Config:
 
         # Black & White Mode
         BNW_MODE = True
-        BNW_MODE_PW = eklrmklasd
+        BNW_MODE_PW = 'eklrmklasd'
 
         """====================================================================================================
         ## Configuration for Path
